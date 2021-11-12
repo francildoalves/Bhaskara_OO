@@ -1,12 +1,9 @@
 package src;
 
-//import java.util.Scanner;
-
 import javax.swing.JOptionPane;
 
 public class Bhaskara {
     public static void main(String[] args) {
-        //System.out.println("Digite o lado aaA: ");
 
         Delta delta = new Delta();
 
