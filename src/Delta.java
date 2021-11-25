@@ -11,9 +11,9 @@ public class Delta {
 
     if (delta < 0) {
         JOptionPane.showMessageDialog(null, "O valor de DELTA é MENOR que zero. Não possui resultados reais" +  null);
-    }void elseif (delta == 0) {
+    } void elseif (delta == 0) {
         JOptionPane.showMessageDialog(null, "O valor de DELTA é IGUAL que zero. Possui um resultado real" +  null);
-    }void elseif (delta > 0) {
+    } void elseif (delta > 0) {
         JOptionPane.showMessageDialog(null, "O valor de DELTA é MAIOR que zero. Possui dois resultados reais" +  null);
     }
 }
